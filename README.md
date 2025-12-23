@@ -14,6 +14,7 @@
 | [Diamonds](https://www.kaggle.com/competitions/diamonds-ds-ft-2109/leaderboard?tab=public) | Предсказание стоимости бриллиантов | Регрессия | RMSE | LassoRegression | 1208.80042 | CatBoost | 521.00491 | After deadline | EDA, Feature Engineering, Отчистка данных, Подбор гиперпараметров |
 | [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) | Предсказать, выжил ли человек на Титанике | Бинарная классификация | Accuracy | LogisticRegression | 0.75837 | XGBoost | 0.77033 | 9453 / 14831 | EDA, Feature Engineering |
 | [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started) | Предсказать, какие твиты о катастрофах, а какие нет | Бинарная классификация текстов | F1 | LogisticRegression | 0.78884 | twitter-roberta-base fine tuning | 0.82439 | 153 / 872 | EDA, Fine Tuning |
+| [Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview) | Определить: кошка или собака на фото | Бинарная классификация | LogLoss | ResNet fine tuning | 0.06202 | ResNet fine tuning (calibrated) | 0.06130 | Unranked (after deadline) | Fine Tuning, Deep Learning |
 
 ---
 
