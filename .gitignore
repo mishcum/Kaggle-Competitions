@@ -2,3 +2,7 @@
 Dogs vs. Cats Redux: Kernels Edition/wandb
 .DS_store
 /LLM Classification Finetuning/data
+LLM Classification Finetuning/models
+LLM Classification Finetuning/train_dataset
+LLM Classification Finetuning/test_dataset
+LLM Classification Finetuning/wandb
