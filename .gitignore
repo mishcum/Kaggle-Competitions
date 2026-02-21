@@ -6,3 +6,4 @@ LLM Classification Finetuning/models
 LLM Classification Finetuning/train_dataset
 LLM Classification Finetuning/test_dataset
 LLM Classification Finetuning/wandb
+LLM Classification Finetuning/bigbird_cls
