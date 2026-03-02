@@ -15,7 +15,8 @@
 | [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) | Предсказать, выжил ли человек на Титанике | Бинарная классификация | Accuracy | LogisticRegression | 0.75837 | XGBoost | 0.77033 | 9453 / 14831 | EDA, Feature Engineering |
 | [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started) | Предсказать, какие твиты о катастрофах, а какие нет | Бинарная классификация текстов | F1 | LogisticRegression | 0.78884 | twitter-roberta-base fine tuning | 0.82439 | 153 / 872 | EDA, Fine Tuning |
 | [Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/overview) | Определить: кошка или собака на фото | Бинарная классификация | LogLoss | ResNet fine tuning | 0.06202 | ResNet fine tuning (calibrated) | 0.06130 | Unranked (after deadline) | Fine Tuning, Deep Learning |
-| [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning) | На основании промпта и ответов двух моделей определить, какая из моделей дала лучший ответ (возможна ничья) | Классификация | LogLoss | Bert-base fine tuning | 1.08338 | BigBirt fine tuning | kaggle notebook timeout | 144 / 229 | NLP, Fine Tuning |
+| [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning) | На основании промпта и ответов двух моделей определить, какая из моделей дала лучший ответ (возможна ничья) | Классификация | LogLoss | Bert-base fine tuning | 1.08338 | BigBird fine tuning | kaggle notebook timeout | 144 / 229 | NLP, Fine Tuning |
+| [Predicting Heart Disease](https://www.kaggle.com/competitions/playground-series-s6e2/overview) | Предсказать наличие болезней сердца __[Playgrpond Sereis]__ | Бинарная классификация | AUC-ROC | CatBoost | 0.95303 | CatBoost + MLP | 0.95512 | 1103 / 4370 | Подбор гиперпараметров, ансамблирование |
 ---
 
 ## 🛠️ Используемые технологии
